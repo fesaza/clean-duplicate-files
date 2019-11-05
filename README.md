@@ -5,12 +5,12 @@ Go to `cleanduplicatephotos/program.cs` file and change `ImageExtensions` and `r
 
 Run `dotnet build` and `dotnet run` or open with Visual Studio
 
-##Things to be improved
+## Things to be improved
 - Request root folder to search for duplicates
 - Request kind of files to search
 - Move code to another files (All code is in `program.cs` class file)
 - Add an UI to made more interactive.
 - For photos display a preview
 
-##Contribute
+## Contribute
 Feel free to contribute, just create a branch and then a Pull Request to merge.
